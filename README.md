@@ -23,3 +23,5 @@ Translation repository for KSP 0.24 text files (Simplified Chinese)
     E.例如 <color=orange>无法传导燃料</color> 内的标签请勿翻译.
     
     F.英文原文内带有换行符的请勿省略.
+    
+    G.请勿翻译物理单位/人名地名/单词缩写
