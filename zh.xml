@@ -1,0 +1,932 @@
+<zh>
+<string id="1980"><![CDATA[3D图像设置]]></string>
+<string id="2697"><![CDATA[出舱]]></string>
+<string id="2704"><![CDATA[舱内]]></string>
+<string id="7257"><![CDATA[默认]]></string>
+<string id="7947"><![CDATA[</i>已经在此模块中存在了.</color>]]></string>
+<string id="8170"><![CDATA[确定]]></string>
+<string id="8175"><![CDATA[取消]]></string>
+<string id="9023"><![CDATA[已禁用]]></string>
+<string id="21357"><![CDATA[舱门被阻挡,无法出舱.]]></string>
+<string id="21450"><![CDATA[舱门]]></string>
+<string id="21760"><![CDATA[插旗 []]></string>
+<string id="23814"><![CDATA[你收集的实验数据无法存储在这个]]></string>
+<string id="23927"><![CDATA[中.确定要继续吗?]]></string>
+<string id="24000"><![CDATA[无法存储试验数据]]></string>
+<string id="24049"><![CDATA[依旧登船
+(丢弃实验数据)]]></string>
+<string id="24433"><![CDATA[]: <size=20>抓住梯子</size>]]></string>
+<string id="24448"><![CDATA[]: <size=20>放开梯子</size>]]></string>
+<string id="24467"><![CDATA[]: <size=20>登船</size>]]></string>
+<string id="25330"><![CDATA[待机]]></string>
+<string id="25619"><![CDATA[打他丫的]]></string>
+<string id="25648"><![CDATA[目标类型]]></string>
+<string id="25671"><![CDATA[目标质量:]]></string>
+<string id="25705"><![CDATA[目标大小:]]></string>
+<string id="25732"><![CDATA[速度:]]></string>
+<string id="25747"><![CDATA[按鼠标中键发射.]]></string>
+<string id="30062"><![CDATA[音量]]></string>
+<string id="38209"><![CDATA[加载中..]]></string>
+<string id="40256"><![CDATA[容量 : ]]></string>
+<string id="40273"><![CDATA[
+质量 : ]]></string>
+<string id="40323"><![CDATA[
+空载质量]]></string>
+<string id="44491"><![CDATA[已启用]]></string>
+<string id="44806"><![CDATA[不知道是什么的奇怪东西]]></string>
+<string id="44857"><![CDATA[在路边捡回来的东西]]></string>
+<string id="44928"><![CDATA[对此物品知之甚少,若使用中出现任何问题,后果自负.]]></string>
+<string id="45424"><![CDATA[调试工具栏]]></string>
+<string id="45872"><![CDATA[隐藏]]></string>
+<string id="45883"><![CDATA[显示]]></string>
+<string id="45960"><![CDATA[飞行Debug统计]]></string>
+<string id="45997"><![CDATA[微弱引力]]></string>
+<string id="46022"><![CDATA[恢复引力]]></string>
+<string id="46051"><![CDATA[打他丫的]]></string>
+<string id="46080"><![CDATA[解包飞船时暂停]]></string>
+<string id="46125"><![CDATA[超强连接点]]></string>
+<string id="46162"><![CDATA[无坠落伤害]]></string>
+<string id="46193"><![CDATA[无限燃料]]></string>
+<string id="46220"><![CDATA[无限RCS]]></string>
+<string id="46245"><![CDATA[无限喷气背包燃料]]></string>
+<string id="46280"><![CDATA[允许重叠摆放部件]]></string>
+<string id="46877"><![CDATA[声音]]></string>
+<string id="46888"><![CDATA[关闭]]></string>
+<string id="48698"><![CDATA[未命名飞船]]></string>
+<string id="49704"><![CDATA[自动保存的飞船]]></string>
+<string id="49735"><![CDATA[选择载入的飞船]]></string>
+<string id="49823"><![CDATA[指挥舱1型]]></string>
+<string id="49836"><![CDATA[发射台]]></string>
+<string id="49882"><![CDATA[无法作为第一个部件]]></string>
+<string id="50625"><![CDATA[接受]]></string>
+<string id="50638"><![CDATA[返回]]></string>
+<string id="50937"><![CDATA[未命名]]></string>
+<string id="50952"><![CDATA[暂无描述.]]></string>
+<string id="51026"><![CDATA[保存子部件]]></string>
+<string id="51059"><![CDATA[确定覆盖]]></string>
+<string id="51094"><![CDATA[名称]]></string>
+<string id="51103"><![CDATA[描述 :]]></string>
+<string id="51128"><![CDATA[保存]]></string>
+<string id="51137"><![CDATA[名为 ']]></string>
+<string id="51180"><![CDATA[' 的子部件已经存在了! 确定要覆盖它吗?]]></string>
+<string id="51273"><![CDATA[覆盖]]></string>
+<string id="51292"><![CDATA[确定删除]]></string>
+<string id="51321"><![CDATA[确定要删除这个子部件吗?]]></string>
+<string id="51420"><![CDATA[删除]]></string>
+<string id="51433"><![CDATA[子部件
+点击这里可以生成这个子部件,从场景中选择一个子部件放置在这里可以覆盖它.]]></string>
+<string id="51639"><![CDATA[子部件
+在这里放置一个子部件将覆盖它]]></string>
+<string id="54166"><![CDATA[飞船载入错误]]></string>
+<string id="54207"><![CDATA[飞船]]></string>
+<string id="54222"><![CDATA[没有被加载
+因为以下部件丢失:
+]]></string>
+<string id="54343"><![CDATA[确定]]></string>
+<string id="63228"><![CDATA[KSP游戏设置]]></string>
+<string id="64136"><![CDATA[默认玩家]]></string>
+<string id="64687"><![CDATA[无法在该场景使用地图]]></string>
+<string id="65649"><![CDATA[快速保存]]></string>
+<string id="66176"><![CDATA[飞船载入错误]]></string>
+<string id="70221"><![CDATA[附近没有可被选定的目标,切换到地图视角来选定一个更远的目标.]]></string>
+<string id="75382"><![CDATA[没有信息]]></string>
+<string id="75420"><![CDATA[开始新的游戏]]></string>
+<string id="76619"><![CDATA[玩家名称:]]></string>
+<string id="76644"><![CDATA[游戏模式;]]></string>
+<string id="76665"><![CDATA[沙盒模式]]></string>
+<string id="76695"><![CDATA[生涯模式]]></string>
+<string id="76708"><![CDATA[旗帜:]]></string>
+<string id="76719"><![CDATA[开始!]]></string>
+<string id="76747"><![CDATA[你想要覆盖它吗？]]></string>
+<string id="76804"><![CDATA[已经有一个相同名字的游戏存在了.]]></string>
+<string id="76932"><![CDATA[没有可用的描述.]]></string>
+<string id="77063"><![CDATA[继续已保存的游戏]]></string>
+<string id="77102"><![CDATA[请确认]]></string>
+<string id="77141"><![CDATA[你的存档文件夹中有不兼容或无效的存档.
+
+你想要怎么做?
+
+(警告:升级存档并不一定适用于所有情况)]]></string>
+<string id="77425"><![CDATA[确定升级]]></string>
+<string id="77456"><![CDATA[不是现在]]></string>
+<string id="77533"><![CDATA[无]]></string>
+<string id="77538"><![CDATA[任务]]></string>
+<string id="77553"><![CDATA[任务]]></string>
+<string id="77570"><![CDATA[进行中]]></string>
+<string id="77595"><![CDATA[年份 :]]></string>
+<string id="77606"><![CDATA[,日期 :]]></string>
+<string id="77651"><![CDATA[与此KSP版本不兼容.]]></string>
+<string id="77728"><![CDATA[没有在存档目录中找到persistent.sfs文件]]></string>
+<string id="77805"><![CDATA[你确定要删除这个游戏吗?
+你会丢失其中所有的进度和飞船.]]></string>
+<string id="77979"><![CDATA[删除游戏]]></string>
+<string id="78002"><![CDATA[继续]]></string>
+<string id="78272"><![CDATA[训练]]></string>
+<string id="78289"><![CDATA[场景]]></string>
+<string id="78308"><![CDATA[选择载入的文件]]></string>
+<string id="78351"><![CDATA[重新开始]]></string>
+<string id="78461"><![CDATA[开始]]></string>
+<string id="78472"><![CDATA[无法开始游戏]]></string>
+<string id="78657"><![CDATA[真的要退出吗?]]></string>
+<string id="78682"><![CDATA[不!还没准备好]]></string>
+<string id="78711"><![CDATA[确认退出]]></string>
+<string id="78767"><![CDATA[音量]]></string>
+<string id="78780"><![CDATA[飞船 : ]]></string>
+<string id="78805"><![CDATA[环境 : ]]></string>
+<string id="78826"><![CDATA[界面 : ]]></string>
+<string id="78835"><![CDATA[音乐 : ]]></string>
+<string id="78850"><![CDATA[语音 : ]]></string>
+<string id="78867"><![CDATA[音质优化]]></string>
+<string id="78900"><![CDATA[优化]]></string>
+<string id="78921"><![CDATA[阈值]]></string>
+<string id="78940"><![CDATA[反馈]]></string>
+<string id="78969"><![CDATA[音频音量]]></string>
+<string id="80050"><![CDATA[欢迎来到装配中心!]]></string>
+<string id="80133"><![CDATA[装配中心教程 : 选择一个指令舱]]></string>
+<string id="80240"><![CDATA[装配中心教程 : 添加部件]]></string>
+<string id="80319"><![CDATA[装配中心教程 : 视角控制]]></string>
+<string id="80404"><![CDATA[装配中心教程 : 旋转部件]]></string>
+<string id="80487"><![CDATA[装配中心教程 : 移除部件]]></string>
+<string id="80570"><![CDATA[装配中心教程 : 分级]]></string>
+<string id="80639"><![CDATA[装配中心教程 : 分级顺序]]></string>
+<string id="80726"><![CDATA[装配中心教程 : 多级飞船]]></string>
+<string id="80825"><![CDATA[装配中心教程 : 一切运行正常!]]></string>
+<string id="80910"><![CDATA[这个简单的教程将教会你如何建造一艘价格不菲的飞船.
+
+如果这个窗口挡到了你的操作,你可以拖动它.
+
+按"下一步"继续.]]></string>
+<string id="81236"><![CDATA[建造飞船的第一步就是为它选择一个指令舱.指令舱就是宇航员操纵飞船的地方.
+
+只要双击一下选择菜单里的可用指令舱就能选用它了.
+
+选择一个指令舱以继续.]]></string>
+<string id="81839"><![CDATA[不断地从左边选择部件增添到右边的建造区域,才能完成飞船的建造.试试拿一个固体火箭助推器连接在指令舱的下面.建造好了就点击下一步.]]></string>
+<string id="82229"><![CDATA[你可能注意到了,部件会自动吸附到连接点上去.连接点就是当部件被拖动时会出现的绿色小球.按下一步继续.]]></string>
+<string id="82580"><![CDATA[各种部件已经在目录中根据它们的功能被分类了.每一个目录都放有相关的部件.点击左上角的结构与空气动力目录.做好了就点击下一步.]]></string>
+<string id="83027"><![CDATA[有一些部件,例如弹翼,他们不必连接在连接点上.它们会吸附在可允许连接它们的任意表面上.试着给刚才的固体火箭上加一片弹翼吧.它会连接在鼠标指向的任何一个地方.建造好了就点击下一步.]]></string>
+<string id="83579"><![CDATA[现在,不对称的弹翼可能会使火箭失去平衡.如果还有一片弹翼在火箭的另一边,火箭就又会平衡了.按住鼠标右键并拖动,可以围绕着飞船旋转视角.将视角转到火箭的另一边,再在那边安装一片弹翼.建造好了就点下一步.]]></string>
+<string id="84171"><![CDATA[在部件被放下之前,你也可以旋转他们.试试添加一组新的弹翼,但是这一次在放下它们之前,使用[W],[S],[A],[D],[Q]和[E]键在不同的方向上旋转它们.
+
+你也可以同时按住[Shift]使用较小的角度旋转它们,如果你已经被转晕了,按[空格]可以回到初始状态.
+
+现在就试试吧,然后按下一步继续.]]></string>
+<string id="84911"><![CDATA[移除不想要的部件只需将它们拿下,再扔回左边的部件菜单就可以了.如果某个部件没有连接在飞船上,他将会变为冻结状态,你可以再选中它重新安置或者丢掉它们.
+或者,你可以按[Delete]键直接删除它们.
+如果一个部件上连接了另外的部件,在移动它的时候其他部件也会一起移动.
+同时也要知道被冻结的部件不会随着火箭一起发射.]]></string>
+<string id="85849"><![CDATA[试试把刚才的固体火箭助推器去掉.连接在它上面的弹翼也同时会被移除.做好了就点下一步.]]></string>
+<string id="86047"><![CDATA[好的火箭其实是由引擎,助推器和油箱堆叠而成的.这就叫做"分级".在火箭上升加速的过程中,会抛弃已经用尽的油箱和助推器,同时点燃在它们之上的引擎.接下来,我们会建造一个多级的火箭.]]></string>
+<string id="86728"><![CDATA[用来建造多级火箭的主要工具就是分离环(器)部件了.你可以在结构与空气动力目录里找到它们.当分离环(器)被激活时,它会带着连接在它上面的其他部分一起脱离船体.
+试试在指令舱的下面安装一个分离环.做好了点击下一步.]]></string>
+<string id="87388"><![CDATA[或许你已经注意到了,当一个部件被安装在火箭上时,屏幕右下角的列表里也会增加一个图标.这个列表显示了飞船现在的分级顺序.在飞行时你将按照数字顺序从下至上依次激活这些部件.安装分离器(环)后列表会自动的新增一级.这是因为当分离环被激活时火箭将被分为两部分,而在它之上的部件会在之后被激活.]]></string>
+<string id="88412"><![CDATA[如果你不满意右下角列表中的分级顺序,你也可以用鼠标拖动它们改变顺序.每一个图标都代表着一个部件,只有当部件所处的那一级被激活时它才会被激活.现在,是时候讲些新东西了.]]></string>
+<string id="89014"><![CDATA[我们在分离环下面连接一个固体火箭推进器.注意它的图标会出现在分离环图标的下面一级,代表着它会先被激活,然后才是分离环,以此类推.做好了就点击下一步.]]></string>
+<string id="89517"><![CDATA[是时候开始我们的第一次飞行了.最后一件是就是考虑燃料用完了之后的情况,我们又会开始下降.我们得想一个可靠的着陆方法,而不是一会儿把飞船从地底下挖出来.所以我们得给指令舱的上面装一个降落伞.完成了就点击下一步.]]></string>
+<string id="90255"><![CDATA[注意降落伞的标志跟指令舱一起被放在了最上面那一级.这意味着其他所有部件都被使用过之后才会张开降落伞.
+ 我们现在已经准备好测试这艘飞船了.点击发射按钮移动至发射台.祝好运!]]></string>
+<string id="90912"><![CDATA[视角模式:]]></string>
+<string id="90939"><![CDATA[<size=20>视角</size> :]]></string>
+<string id="90956"><![CDATA[任务已取消]]></string>
+<string id="90987"><![CDATA[灾难性的失败!]]></string>
+<string id="91030"><![CDATA[成功!!]]></string>
+<string id="91049"><![CDATA[成功地失败了]]></string>
+<string id="91125"><![CDATA[任务总用时:
+]]></string>
+<string id="91197"><![CDATA[时,]]></string>
+<string id="91214"><![CDATA[分,]]></string>
+<string id="91229"><![CDATA[秒.
+]]></string>
+<string id="91244"><![CDATA[达到的最高高度:
+]]></string>
+<string id="91306"><![CDATA[达到的最快速度:
+]]></string>
+<string id="91366"><![CDATA[最高地速:
+]]></string>
+<string id="91419"><![CDATA[陆地经过路程:
+]]></string>
+<string id="91472"><![CDATA[经过总路程:
+]]></string>
+<string id="91525"><![CDATA[最大过载加速度:
+]]></string>
+<string id="91581"><![CDATA[结构损坏出现在]]></string>
+<string id="91658"><![CDATA[和]]></string>
+<string id="91669"><![CDATA[撞上了]]></string>
+<string id="91698"><![CDATA[狠狠地砸进了水中然后被摧毁了.]]></string>
+<string id="91775"><![CDATA[撞上了]]></string>
+<string id="91806"><![CDATA[由于过热而爆炸了.]]></string>
+<string id="91865"><![CDATA[分级]]></string>
+<string id="91906"><![CDATA[成功执行.]]></string>
+<string id="91927"><![CDATA[来自]]></string>
+<string id="91940"><![CDATA[进行了舱外活动.]]></string>
+<string id="91967"><![CDATA[从不知道哪进行了舱外活动.]]></string>
+<string id="92034"><![CDATA[已死亡.]]></string>
+<string id="92059"><![CDATA[进入了]]></string>
+<string id="92078"><![CDATA[升空!!]]></string>
+<string id="92097"><![CDATA[脱离自]]></string>
+<string id="92136"><![CDATA[被损坏由于引擎废气自]]></string>
+<string id="92958"><![CDATA[准备发射!]]></string>
+<string id="110842"><![CDATA[游戏]]></string>
+<string id="110859"><![CDATA[显示飞船标识]]></string>
+<string id="110896"><![CDATA[显示太空中心工作人员]]></string>
+<string id="111098"><![CDATA[飞行面板大小 : ]]></string>
+<string id="111131"><![CDATA[系统]]></string>
+<string id="111144"><![CDATA[在启动时检查游戏更新]]></string>
+<string id="111211"><![CDATA[游戏启动时显示状态跟踪对话框]]></string>
+<string id="111286"><![CDATA[后台运行]]></string>
+<string id="111331"><![CDATA[不显示游戏启动器]]></string>
+<string id="111380"><![CDATA[最大可存在太空垃圾数量 : ]]></string>
+<string id="111427"><![CDATA[无限]]></string>
+<string id="111446"><![CDATA[最大每帧物理模拟时间间隔 : ]]></string>
+<string id="111515"><![CDATA[ 秒.]]></string>
+<string id="111579"><![CDATA[微小]]></string>
+<string id="111588"><![CDATA[十分小]]></string>
+<string id="111611"><![CDATA[小]]></string>
+<string id="111622"><![CDATA[较小]]></string>
+<string id="111639"><![CDATA[中等]]></string>
+<string id="111652"><![CDATA[较大]]></string>
+<string id="111669"><![CDATA[大]]></string>
+<string id="111680"><![CDATA[十分大]]></string>
+<string id="111703"><![CDATA[巨大]]></string>
+<string id="111712"><![CDATA[摇杆名称 :]]></string>
+<string id="111743"><![CDATA[摇杆 ]]></string>
+<string id="111762"><![CDATA[控制映射]]></string>
+<string id="111793"><![CDATA[飞行]]></string>
+<string id="111806"><![CDATA[分级模式界面]]></string>
+<string id="111827"><![CDATA[对接模式界面]]></string>
+<string id="111848"><![CDATA[宇航员]]></string>
+<string id="111863"><![CDATA[探测车]]></string>
+<string id="111876"><![CDATA[杂项]]></string>
+<string id="111887"><![CDATA[其他]]></string>
+<string id="111898"><![CDATA[键盘/按键绑定]]></string>
+<string id="111937"><![CDATA[飞船]]></string>
+<string id="111946"><![CDATA[着陆架]]></string>
+<string id="111971"><![CDATA[刹车]]></string>
+<string id="111984"><![CDATA[手动SAS]]></string>
+<string id="112001"><![CDATA[切换SAS]]></string>
+<string id="112022"><![CDATA[切换RCS]]></string>
+<string id="112043"><![CDATA[关闭节流阀]]></string>
+<string id="112076"><![CDATA[切换精确控制模式]]></string>
+<string id="112127"><![CDATA[照明]]></string>
+<string id="112140"><![CDATA[紧急逃生]]></string>
+<string id="112171"><![CDATA[自定义动作1]]></string>
+<string id="112202"><![CDATA[自定义动作2]]></string>
+<string id="112233"><![CDATA[自定义动作3]]></string>
+<string id="112264"><![CDATA[自定义动作4]]></string>
+<string id="112295"><![CDATA[自定义动作5]]></string>
+<string id="112326"><![CDATA[自定义动作6]]></string>
+<string id="112357"><![CDATA[自定义动作7]]></string>
+<string id="112388"><![CDATA[自定义动作8]]></string>
+<string id="112419"><![CDATA[自定义动作9]]></string>
+<string id="112450"><![CDATA[自定义动作10]]></string>
+<string id="112483"><![CDATA[旋转]]></string>
+<string id="112500"><![CDATA[俯冲]]></string>
+<string id="112521"><![CDATA[拉升]]></string>
+<string id="112538"><![CDATA[左偏航]]></string>
+<string id="112555"><![CDATA[右偏航]]></string>
+<string id="112574"><![CDATA[逆时针滚转]]></string>
+<string id="112593"><![CDATA[顺时针滚转]]></string>
+<string id="112614"><![CDATA[平移]]></string>
+<string id="112637"><![CDATA[向上平移]]></string>
+<string id="112662"><![CDATA[向下平移]]></string>
+<string id="112691"><![CDATA[向左平移]]></string>
+<string id="112720"><![CDATA[向右平移]]></string>
+<string id="112751"><![CDATA[向前平移]]></string>
+<string id="112786"><![CDATA[向后平移]]></string>
+<string id="112823"><![CDATA[节流阀]]></string>
+<string id="112840"><![CDATA[节流阀增大]]></string>
+<string id="112863"><![CDATA[节流阀减小]]></string>
+<string id="112890"><![CDATA[发射/执行分级]]></string>
+<string id="112917"><![CDATA[转向]]></string>
+<string id="112934"><![CDATA[向左转向]]></string>
+<string id="112955"><![CDATA[向右转向]]></string>
+<string id="112978"><![CDATA[转向轴控制]]></string>
+<string id="113005"><![CDATA[节流阀轴控制]]></string>
+<string id="113032"><![CDATA[切换平移/旋转]]></string>
+<string id="113087"><![CDATA[人物控制]]></string>
+<string id="113124"><![CDATA[向前走]]></string>
+<string id="113149"><![CDATA[向后走]]></string>
+<string id="113168"><![CDATA[向左走]]></string>
+<string id="113187"><![CDATA[向右走]]></string>
+<string id="113208"><![CDATA[向左转]]></string>
+<string id="113227"><![CDATA[向右转]]></string>
+<string id="113248"><![CDATA[使用喷气背包向前飞]]></string>
+<string id="113279"><![CDATA[使用喷气背包向后飞]]></string>
+<string id="113304"><![CDATA[使用喷气背包向左飞]]></string>
+<string id="113329"><![CDATA[使用喷气背包向右飞]]></string>
+<string id="113356"><![CDATA[使用喷气背包向上飞]]></string>
+<string id="113377"><![CDATA[使用喷气背包向下飞]]></string>
+<string id="113402"><![CDATA[跳跃]]></string>
+<string id="113411"><![CDATA[跑]]></string>
+<string id="113418"><![CDATA[使用/抓住]]></string>
+<string id="113435"><![CDATA[切换喷气背包]]></string>
+<string id="113464"><![CDATA[切换移动模式]]></string>
+<string id="113505"><![CDATA[面向视角方向]]></string>
+<string id="113534"><![CDATA[切换照明]]></string>
+<string id="113561"><![CDATA[视角]]></string>
+<string id="113574"><![CDATA[视角模式]]></string>
+<string id="113597"><![CDATA[下一个视角]]></string>
+<string id="113620"><![CDATA[重置视角]]></string>
+<string id="113645"><![CDATA[放大]]></string>
+<string id="113660"><![CDATA[缩小]]></string>
+<string id="113677"><![CDATA[向上看]]></string>
+<string id="113692"><![CDATA[向下看]]></string>
+<string id="113711"><![CDATA[向左看]]></string>
+<string id="113730"><![CDATA[向右看]]></string>
+<string id="113751"><![CDATA[界面]]></string>
+<string id="113756"><![CDATA[切换飞行界面显示]]></string>
+<string id="113795"><![CDATA[向上滚动图标]]></string>
+<string id="113826"><![CDATA[向下滚动图标]]></string>
+<string id="113861"><![CDATA[切换飞船标签显示]]></string>
+<string id="113908"><![CDATA[切换飞行记录显示]]></string>
+<string id="113949"><![CDATA[杂项]]></string>
+<string id="113958"><![CDATA[轨道地图视角]]></string>
+<string id="113991"><![CDATA[加快时间流速]]></string>
+<string id="114028"><![CDATA[减缓时间流速]]></string>
+<string id="114065"><![CDATA[转到下一艘飞船]]></string>
+<string id="114100"><![CDATA[转到上一艘飞船]]></string>
+<string id="114135"><![CDATA[截屏]]></string>
+<string id="114166"><![CDATA[暂停]]></string>
+<string id="114177"><![CDATA[快速读取]]></string>
+<string id="114215"><![CDATA[视角上移]]></string>
+<string id="114244"><![CDATA[视角下移]]></string>
+<string id="114277"><![CDATA[物体下俯]]></string>
+<string id="114308"><![CDATA[物体上仰]]></string>
+<string id="114335"><![CDATA[物体左偏]]></string>
+<string id="114362"><![CDATA[物体右偏]]></string>
+<string id="114391"><![CDATA[物体左转]]></string>
+<string id="114420"><![CDATA[物体右转]]></string>
+<string id="114451"><![CDATA[物体归位]]></string>
+<string id="114490"><![CDATA[轴绑定]]></string>
+<string id="114517"><![CDATA[俯仰轴]]></string>
+<string id="114538"><![CDATA[滚转轴]]></string>
+<string id="114557"><![CDATA[偏航轴]]></string>
+<string id="114574"><![CDATA[左/右平移]]></string>
+<string id="114615"><![CDATA[上/下平移]]></string>
+<string id="114650"><![CDATA[前/后平移]]></string>
+<string id="114695"><![CDATA[节流阀(增量)]]></string>
+<string id="114740"><![CDATA[宇航员]]></string>
+<string id="114759"><![CDATA[俯仰(类似)]]></string>
+<string id="114792"><![CDATA[偏航(类似)]]></string>
+<string id="114825"><![CDATA[滚转(类似)]]></string>
+<string id="114858"><![CDATA[横向视角]]></string>
+<string id="114893"><![CDATA[纵向视角]]></string>
+<string id="114924"><![CDATA[其他的控制设定和设备选项]]></string>
+<string id="115007"><![CDATA[其他设置]]></string>
+<string id="115036"><![CDATA[对接模式时允许分级]]></string>
+<string id="115105"><![CDATA[出舱行走时自动朝向视角方向]]></string>
+<string id="115158"><![CDATA[鼠标滚轮灵敏度 : ]]></string>
+<string id="115209"><![CDATA[六自由度设备:]]></string>
+<string id="115236"><![CDATA[六自由度输入设备是一个可以在3D应用程序内操纵物体与视角的硬件控制器.
+
+目前,该功能只支持Windows版本的KSP.]]></string>
+<string id="115586"><![CDATA[切换 视角/飞行 控制]]></string>
+<string id="115643"><![CDATA[锁定/解锁滚转轴]]></string>
+<string id="115686"><![CDATA[六自由度视角控制:]]></string>
+<string id="115729"><![CDATA[<b>俯仰,偏航和滚转</b>]]></string>
+<string id="115782"><![CDATA[灵敏度: ]]></string>
+<string id="115809"><![CDATA[慢]]></string>
+<string id="115818"><![CDATA[快]]></string>
+<string id="115827"><![CDATA[锐利度: ]]></string>
+<string id="115850"><![CDATA[平滑]]></string>
+<string id="115863"><![CDATA[精确]]></string>
+<string id="115878"><![CDATA[<b>XYZ轴平移</b>]]></string>
+<string id="115923"><![CDATA[六自由度飞行控制:]]></string>
+<string id="115966"><![CDATA[按下欲指定的按键]]></string>
+<string id="116077"><![CDATA[推动欲指定的摇杆]]></string>
+<string id="116168"><![CDATA[取消指定]]></string>
+<string id="116203"><![CDATA[清除指定]]></string>
+<string id="116236"><![CDATA[[对接模式] - 在平移/旋转中生效: ]]></string>
+<string id="116355"><![CDATA[反向]]></string>
+<string id="116368"><![CDATA[灵敏度]]></string>
+<string id="116393"><![CDATA[静止区 ]]></string>
+<string id="116668"><![CDATA[场景]]></string>
+<string id="116685"><![CDATA[输入]]></string>
+<string id="116696"><![CDATA[一般]]></string>
+<string id="117089"><![CDATA[真的要跳过教程?]]></string>
+<string id="117118"><![CDATA[上一个]]></string>
+<string id="117135"><![CDATA[跳过教程]]></string>
+<string id="117162"><![CDATA[下一个]]></string>
+<string id="117171"><![CDATA[结束教程]]></string>
+<string id="117196"><![CDATA[不要再显示教程]]></string>
+<string id="117257"><![CDATA[你确定要跳过教程么?]]></string>
+<string id="117740"><![CDATA[图像]]></string>
+<string id="117755"><![CDATA[地形细节: ]]></string>
+<string id="117788"><![CDATA[SM3地形阴影: ]]></string>
+<string id="117831"><![CDATA[无硬件支持]]></string>
+<string id="117870"><![CDATA[地形散布 (WIP): ]]></string>
+<string id="117919"><![CDATA[散布密度: ]]></string>
+<string id="117954"><![CDATA[<size=10><color=yellow>景象设定可能需要重启游戏以应用变更.</color></size>]]></string>
+<string id="118150"><![CDATA[渲染]]></string>
+<string id="118169"><![CDATA[渲染品质: ]]></string>
+<string id="118214"><![CDATA[贴图品质:]]></string>
+<string id="118252"><![CDATA[备用零件阴影:]]></string>
+<string id="118297"><![CDATA[是]]></string>
+<string id="118306"><![CDATA[否]]></string>
+<string id="118317"><![CDATA[气动效果:]]></string>
+<string id="118364"><![CDATA[显示]]></string>
+<string id="118375"><![CDATA[分辨率:]]></string>
+<string id="118412"><![CDATA[全屏显示:]]></string>
+<string id="118437"><![CDATA[抗锯齿:]]></string>
+<string id="118466"><![CDATA[垂直同步:]]></string>
+<string id="118481"><![CDATA[帧数限制:]]></string>
+<string id="118506"><![CDATA[像素光源:]]></string>
+<string id="118543"><![CDATA[阴影投射:]]></string>
+<string id="118576"><![CDATA[* 需要重启游戏以应用变更 *]]></string>
+<string id="118681"><![CDATA[显示与图像]]></string>
+<string id="118714"><![CDATA[抗锯齿:   ]]></string>
+<string id="118749"><![CDATA[贴图品质: ]]></string>
+<string id="118784"><![CDATA[像素光源: ]]></string>
+<string id="118823"><![CDATA[阴影投射: ]]></string>
+<string id="118858"><![CDATA[关]]></string>
+<string id="118865"><![CDATA[2倍]]></string>
+<string id="118870"><![CDATA[4倍]]></string>
+<string id="118875"><![CDATA[8倍]]></string>
+<string id="118880"><![CDATA[八分之一]]></string>
+<string id="118901"><![CDATA[四分之一]]></string>
+<string id="118924"><![CDATA[二分之一]]></string>
+<string id="118941"><![CDATA[无损]]></string>
+<string id="118958"><![CDATA[不同步]]></string>
+<string id="118979"><![CDATA[逐帧同步]]></string>
+<string id="119004"><![CDATA[跳帧同步]]></string>
+<string id="119043"><![CDATA[60 帧]]></string>
+<string id="119056"><![CDATA[80 帧]]></string>
+<string id="119069"><![CDATA[100 帧]]></string>
+<string id="119084"><![CDATA[120 帧]]></string>
+<string id="119099"><![CDATA[140 帧]]></string>
+<string id="119114"><![CDATA[160 帧]]></string>
+<string id="119129"><![CDATA[180 帧]]></string>
+<string id="119144"><![CDATA[最低]]></string>
+<string id="119159"><![CDATA[很低]]></string>
+<string id="119176"><![CDATA[低]]></string>
+<string id="119183"><![CDATA[一般]]></string>
+<string id="119196"><![CDATA[ 帧]]></string>
+<string id="119572"><![CDATA[正在环绕]]></string>
+<string id="120149"><![CDATA[
+半径:]]></string>
+<string id="120168"><![CDATA[
+轨道速度:]]></string>
+<string id="120192"><![CDATA[
+轨道周期:]]></string>
+<string id="120712"><![CDATA[轨道速度:]]></string>
+<string id="120807"><![CDATA[降交点 : ]]></string>
+<string id="120842"><![CDATA[升交点 : ]]></string>
+<string id="120875"><![CDATA[远拱点	: ]]></string>
+<string id="120896"><![CDATA[近拱点: ]]></string>
+<string id="120953"><![CDATA[准备发射]]></string>
+<string id="120984"><![CDATA[
+设立于]]></string>
+<string id="121001"><![CDATA[着陆
+]]></string>
+<string id="121016"><![CDATA[在]]></string>
+<string id="121063"><![CDATA[m/s
+高度:]]></string>
+<string id="121082"><![CDATA[
+距离:]]></string>
+<string id="121115"><![CDATA[添加计划机动点]]></string>
+<string id="121140"><![CDATA[设为目标]]></string>
+<string id="121167"><![CDATA[取消该目标]]></string>
+<string id="121192"><![CDATA[切换到]]></string>
+<string id="121794"><![CDATA[指向升交点]]></string>
+<string id="121837"><![CDATA[指向降交点]]></string>
+<string id="121882"><![CDATA[指向交会点 1]]></string>
+<string id="121929"><![CDATA[指向交会点 2]]></string>
+<string id="121976"><![CDATA[交会点 1
+相隔距离 : ]]></string>
+<string id="122025"><![CDATA[km
+预计时间 ]]></string>
+<string id="122036"><![CDATA[目标到达交会点1时的位置]]></string>
+<string id="122097"><![CDATA[交会点 2
+相隔距离: ]]></string>
+<string id="122146"><![CDATA[目标到达交会点2时的位置]]></string>
+<string id="122207"><![CDATA[最近点
+相隔距离: ]]></string>
+<string id="122266"><![CDATA[目标到达最近点时的位置]]></string>
+<string id="122490"><![CDATA[机动 #]]></string>
+<string id="122511"><![CDATA[机动
+速度增量 : ]]></string>
+<string id="122548"><![CDATA[m/s
+预计时间 ]]></string>
+<string id="122561"><![CDATA[ 近拱点 : ]]></string>
+<string id="122586"><![CDATA[m
+预计时间 ]]></string>
+<string id="122595"><![CDATA[ 远拱点 : ]]></string>
+<string id="122618"><![CDATA[ 逃逸点
+预计时间 ]]></string>
+<string id="122639"><![CDATA[ 交会点
+预计时间 ]]></string>
+<string id="122666"><![CDATA[
+速度 : ]]></string>
+<string id="123255"><![CDATA[<size=20>聚焦</size> :]]></string>
+<string id="123847"><![CDATA[地面]]></string>
+<string id="125305"><![CDATA[地面]]></string>
+<string id="125366"><![CDATA[过热!]]></string>
+<string id="129381"><![CDATA[地点名词 :]]></string>
+<string id="129402"><![CDATA[命名此地点]]></string>
+<string id="129421"><![CDATA[旗帜文字 :]]></string>
+<string id="129446"><![CDATA[旗帜位于]]></string>
+<string id="131175"><![CDATA[<b>全功率输出 :</b>
+]]></string>
+<string id="131518"><![CDATA[<b>分离力量 : </b>]]></string>
+<string id="131627"><![CDATA[已锁定]]></string>
+<string id="131640"><![CDATA[运动中..]]></string>
+<string id="131913"><![CDATA[已修正]]></string>
+<string id="131924"><![CDATA[运动中..]]></string>
+<string id="131956"><![CDATA[切换]]></string>
+<string id="132043"><![CDATA[收回起落架]]></string>
+<string id="132068"><![CDATA[放下起落架]]></string>
+<string id="132091"><![CDATA[正在工作]]></string>
+<string id="132114"><![CDATA[没有足够的船员(]]></string>
+<string id="132149"><![CDATA[没有足够的]]></string>
+<string id="132172"><![CDATA[最少船员数量:]]></string>
+<string id="132223"><![CDATA[无人
+]]></string>
+<string id="132329"><![CDATA[升力系数 : ]]></string>
+<string id="132821"><![CDATA[传输所有数据]]></string>
+<string id="132846"><![CDATA[只传输可重用仪器数据]]></string>
+<string id="132903"><![CDATA[仍旧传送]]></string>
+<string id="132934"><![CDATA[]:正在停止传输...]]></string>
+<string id="132989"><![CDATA[正在停止传输...]]></string>
+<string id="133038"><![CDATA[<b>数据包大小 : </b>]]></string>
+<string id="133092"><![CDATA[<b>带宽: </b>]]></string>
+<string id="133152"><![CDATA[<color=#99ff00ff><b>需要 :</b></color>
+]]></string>
+<string id="133509"><![CDATA[<b>转动速度 : </b>]]></string>
+<string id="133556"><![CDATA[
+<b>面板强度 : </b>]]></string>
+<string id="133605"><![CDATA[
+<b><color=orange>面板无法收回</color></b>]]></string>
+<string id="133805"><![CDATA[阳光直射]]></string>
+<string id="133836"><![CDATA[处于它的阴影中:]]></string>
+<string id="133859"><![CDATA[正在展开..]]></string>
+<string id="133882"><![CDATA[正在收回..]]></string>
+<string id="133907"><![CDATA[已收回]]></string>
+<string id="133926"><![CDATA[已损坏!]]></string>
+<string id="133941"><![CDATA[由于大气阻力导致了损坏!]]></string>
+<string id="134661"><![CDATA[对接口]]></string>
+<string id="134904"><![CDATA[不足]]></string>
+<string id="134923"><![CDATA[工作正常]]></string>
+<string id="134938"><![CDATA[已熄火!]]></string>
+<string id="135303"><![CDATA[<b>最大推力 : </b>]]></string>
+<string id="135344"><![CDATA[<b>最小推力 : </b>]]></string>
+<string id="135385"><![CDATA[<b>引擎比冲 : </b>]]></string>
+<string id="135424"><![CDATA[ (海平面 ) - ]]></string>
+<string id="135443"><![CDATA[ (真空中 )
+]]></string>
+<string id="135458"><![CDATA[
+<b><color=#99ff00ff>燃料:</color></b>
+]]></string>
+<string id="135564"><![CDATA[/sec. 最大功率时.
+]]></string>
+<string id="135587"><![CDATA[<b>停机阈值 : </b>]]></string>
+<string id="135639"><![CDATA[
+<b><color=orange>引擎无法关闭!</color></b>]]></string>
+<string id="135754"><![CDATA[
+<b><color=orange>如果被关闭,无法再次启动.</color></b>]]></string>
+<string id="135886"><![CDATA[最大]]></string>
+<string id="135897"><![CDATA[推力 : </b>]]></string>
+<string id="136223"><![CDATA[关闭]]></string>
+<string id="136463"><![CDATA[
+发电机一直在运行.]]></string>
+<string id="136520"><![CDATA[
+发电机必须被启动.]]></string>
+<string id="136737"><![CDATA[效率]]></string>
+<string id="136758"><![CDATA[启动发电机]]></string>
+<string id="136795"><![CDATA[关闭发动机]]></string>
+<string id="136883"><![CDATA[<b>矢量推力范围 : </b>]]></string>
+<string id="139317"><![CDATA[<b>未展开时阻力 : </b>]]></string>
+<string id="139358"><![CDATA[<b>预展开时阻力 : </b>]]></string>
+<string id="139413"><![CDATA[<b>全展开时阻力 : </b>]]></string>
+<string id="139470"><![CDATA[<b>自动展开高度 : </b>]]></string>
+<string id="139527"><![CDATA[<b>最小气压 : </b>]]></string>
+<string id="140026"><![CDATA[单元推进剂]]></string>
+<string id="140124"><![CDATA[不足]]></string>
+<string id="140145"><![CDATA[不足]]></string>
+<string id="140168"><![CDATA[<b>俯仰扭矩 : </b>]]></string>
+<string id="140211"><![CDATA[<b>偏航扭矩 : </b>]]></string>
+<string id="140250"><![CDATA[<b>滚转扭矩 : </b>]]></string>
+<string id="140342"><![CDATA[<b>获取资源 : </b>]]></string>
+<string id="140391"><![CDATA[<b>进气区域 : </b>]]></string>
+<string id="140432"><![CDATA[没有氧气]]></string>
+<string id="140451"><![CDATA[进气]]></string>
+<string id="140483"><![CDATA[已配备]]></string>
+<string id="140992"><![CDATA[]:所有数据已被存储.</color>]]></string>
+<string id="141049"><![CDATA[]:部分数据将不会被存储.</color>]]></string>
+<string id="141132"><![CDATA[]:没什么东西要存储的.</color>]]></string>
+<string id="141189"><![CDATA[]:所有数据已被收集.</color>]]></string>
+<string id="141252"><![CDATA[]:部分数据没有被收集.</color>]]></string>
+<string id="141341"><![CDATA[]:没有什么东西要收集的.</color>]]></string>
+<string id="141439"><![CDATA[没有数据存储器.</color>]]></string>
+<string id="141502"><![CDATA[</i>已添加 (]]></string>
+<string id="141548"><![CDATA[</i>已添加.</color>]]></string>
+<string id="141624"><![CDATA[]:无法增加<i>]]></string>
+<string id="141659"><![CDATA[</i>.存储器容量已达上限. (]]></string>
+<string id="141755"><![CDATA[已被移除.</color>]]></string>
+<string id="141790"><![CDATA[正在将数据发往飞船. ]]></string>
+<string id="141851"><![CDATA[个设备可以选择.将选择最好的那一个]]></string>
+<string id="141960"><![CDATA[<size=20>飞船上没有通讯设备.无法传输数据.</size>]]></string>
+<string id="142069"><![CDATA[正在向实验室传输数据. ]]></string>
+<string id="142128"><![CDATA[个模块可以选择.将会选择最好的那一个]]></string>
+<string id="142237"><![CDATA[<size=20>飞船上没有正在运作的实验室.无法分析数据.</size>]]></string>
+<string id="142364"><![CDATA[查看已存储数据]]></string>
+<string id="142401"><![CDATA[存储数据]]></string>
+<string id="142422"><![CDATA[拿取数据]]></string>
+<string id="143277"><![CDATA[重置数据]]></string>
+<string id="144415"><![CDATA[自动转向]]></string>
+<string id="145216"><![CDATA[<b>控制类型 :</b> ]]></string>
+<string id="145259"><![CDATA[<b>撞击耐度 : </b>]]></string>
+<string id="145310"><![CDATA[<b>最高速度 : </b>]]></string>
+<string id="145366"><![CDATA[<b>内置马达</b>
+]]></string>
+<string id="146084"><![CDATA[电量]]></string>
+<string id="147550"><![CDATA[
+推力矢量范围 : ]]></string>
+<string id="147589"><![CDATA[Yes
+喷口范围 : ]]></string>
+<string id="147626"><![CDATA[
+最大推力 : ]]></string>
+<string id="147661"><![CDATA[
+最大空气流量 : ]]></string>
+<string id="147698"><![CDATA[
+吸气范围 : ]]></string>
+<string id="147727"><![CDATA[
+吸气强度 : ]]></string>
+<string id="147804"><![CDATA[SAS力量]]></string>
+<string id="147823"><![CDATA[最大SAS扭矩 : ]]></string>
+<string id="147856"><![CDATA[
+最大载人数 : ]]></string>
+<string id="147889"><![CDATA[强度 : ]]></string>
+<string id="147910"><![CDATA[
+分离力量: ]]></string>
+<string id="148165"><![CDATA[容量 : ]]></string>
+<string id="148405"><![CDATA[展开时阻力 : ]]></string>
+<string id="149603"><![CDATA[最大扭矩 :]]></string>
+<string id="150536"><![CDATA[最大长度 : ]]></string>
+<string id="150568"><![CDATA[<b>流动方向 : </b>自动]]></string>
+<string id="150633"><![CDATA[<b>流动方向 : </b>流向第一个连接点]]></string>
+<string id="150714"><![CDATA[<b>流动方向 : </b>流向第二个连接点]]></string>
+<string id="153228"><![CDATA[已被占用]]></string>
+<string id="153249"><![CDATA[已经占用了]]></string>
+<string id="153288"><![CDATA[清除]]></string>
+<string id="153309"><![CDATA[并执行
+(回收]]></string>
+<string id="153354"><![CDATA[取消发射]]></string>
+<string id="153387"><![CDATA[警告:缺乏控制模块!]]></string>
+<string id="153428"><![CDATA[该载具未安装无人或载人控制模块,它将不会受任何控制.]]></string>
+<string id="153592"><![CDATA[仍然发射]]></string>
+<string id="153619"><![CDATA[无操作源]]></string>
+<string id="153656"><![CDATA[警告:没有搭载宇航员!]]></string>
+<string id="153691"><![CDATA[这艘飞船的所有椅子上都没坐人,它不会受到控制.]]></string>
+<string id="153833"><![CDATA[无载人部件]]></string>
+<string id="162429"><![CDATA[轨道]]></string>
+<string id="162440"><![CDATA[溅落]]></string>
+<string id="162547"><![CDATA[无可用处境报告]]></string>
+<string id="168249"><![CDATA[高度]]></string>
+<string id="168402"><![CDATA[m 时.]]></string>
+<string id="171452"><![CDATA[对接模式]]></string>
+<string id="171616"><![CDATA[跑道]]></string>
+<string id="172184"><![CDATA[丢弃数据]]></string>
+<string id="172209"><![CDATA[保留数据]]></string>
+<string id="172228"><![CDATA[立即传输]]></string>
+<string id="172253"><![CDATA[转移至实验室]]></string>
+<string id="172276"><![CDATA[下一个实验]]></string>
+<string id="172307"><![CDATA[上一个实验]]></string>
+<string id="172484"><![CDATA[数据大小:]]></string>
+<string id="172518"><![CDATA[<color=orange>传输后无法操作.</color>]]></string>
+<string id="172698"><![CDATA[回收: +]]></string>
+<string id="172721"><![CDATA[ 科学点数]]></string>
+<string id="172760"><![CDATA[ 科学点数</color>]]></string>
+<string id="172793"><![CDATA[传输: +]]></string>
+<string id="172819"><![CDATA[在实验室组件中处理
+(]]></string>
+<string id="172899"><![CDATA[传输数据
+(]]></string>
+<string id="172930"><![CDATA[ 的科技点数)]]></string>
+<string id="172961"><![CDATA[
+
+确定要继续吗?]]></string>
+<string id="173034"><![CDATA[传输数据]]></string>
+<string id="173061"><![CDATA[你越来越怀疑自己到底有没有学到什么东西.]]></string>
+<string id="173197"><![CDATA[这好像对科技的发展没有任何意义.]]></string>
+<string id="173349"><![CDATA[随着研究与开发机构的关停,再做这些事情好像已经没什么意义了.]]></string>
+<string id="173493"><![CDATA[如果研究与开发机构能再次运转,我们将会学到更多.]]></string>
+<string id="173643"><![CDATA[直觉告诉你这不是你想要的结果.]]></string>
+<string id="173779"><![CDATA[做这件事看起来没有任何科学意义.]]></string>
+<string id="173911"><![CDATA[[RDTech]: 没有足够的科学点数来解锁此科技.]]></string>
+<string id="174014"><![CDATA[<color=orange><size=25>科学点数不足,无法研究.</size></color>]]></string>
+<string id="174141"><![CDATA[[RDTech]: 该科技已被解锁]]></string>
+<string id="175211"><![CDATA[回收返回自Kerbin在轨飞行的飞行器.]]></string>
+<string id="175306"><![CDATA[回收返回自曾进行过亚轨道飞行的飞行器.]]></string>
+<string id="175403"><![CDATA[回收飞行幸存的飞行器.]]></string>
+<string id="175492"><![CDATA[回收返回自曾在{0}地表着陆的飞行器.]]></string>
+<string id="175599"><![CDATA[回收返回自曾在{0}飞行的飞行器.]]></string>
+<string id="175704"><![CDATA[回收返回自曾在{0}亚轨道飞行的飞行器.]]></string>
+<string id="175829"><![CDATA[回收返回自曾在{0}轨道飞行的飞行器.]]></string>
+<string id="175932"><![CDATA[回收返回自曾在{0}飞掠的飞行器.]]></string>
+<string id="176519"><![CDATA[ 科学点数已获取.</color>]]></string>
+<string id="176566"><![CDATA[ 数据已得到]]></string>
+<string id="176595"><![CDATA[我们越发地觉得这没有任何意义.]]></string>
+<string id="176929"><![CDATA[的地表]]></string>
+<string id="176950"><![CDATA[的海洋]]></string>
+<string id="176969"><![CDATA[于飞过]]></string>
+<string id="177008"><![CDATA[于飞在]]></string>
+<string id="177043"><![CDATA[记录于 位置:上层大气 天体:]]></string>
+<string id="177108"><![CDATA[的上层大气]]></string>
+<string id="177977"><![CDATA[科研报告来自<i>]]></string>
+<string id="178349"><![CDATA[个实验]]></string>
+<string id="178372"><![CDATA[个实验]]></string>
+<string id="178397"><![CDATA[数据被回收:]]></string>
+<string id="178420"><![CDATA[ 个科学点数已经在此任务中获得]]></string>
+<string id="178483"><![CDATA[科学点数 : ]]></string>
+<string id="178502"><![CDATA[完 成]]></string>
+<string id="178511"><![CDATA[ 数据已收集]]></string>
+<string id="178540"><![CDATA[数据值 : ]]></string>
+<string id="204782"><![CDATA[分级模式]]></string>
+<string id="262259"><![CDATA[设置]]></string>
+<string id="262276"><![CDATA[应用]]></string>
+<string id="262498"><![CDATA[<size=20>目标</size> :]]></string>
+<string id="262515"><![CDATA[<size=20>当前没有目标</size>]]></string>
+<string id="264608"><![CDATA[无法在这个场景中改变时间流速]]></string>
+<string id="264677"><![CDATA[开启物理时间加速会影响飞船的结构稳定性.
+
+正在驾驶大型飞船时谨慎使用.]]></string>
+<string id="264895"><![CDATA[警告:]]></string>
+<string id="264912"><![CDATA[下次不再显示]]></string>
+<string id="264945"><![CDATA[<size=20>时间流速</size>:]]></string>
+<string id="264993"><![CDATA[无法时间加速超过 ]]></string>
+<string id="265042"><![CDATA[x 当为宇航员正站在梯子上时.]]></string>
+<string id="265107"><![CDATA[x 当在大气中飞行时.]]></string>
+<string id="265152"><![CDATA[x 当飞船还在加速时.]]></string>
+<string id="265229"><![CDATA[x 当飞船高度低于 ]]></string>
+<string id="265258"><![CDATA[x 当在地面移动时.]]></string>
+<string id="265559"><![CDATA[]:准备发射 - 正在等待开启物理模拟]]></string>
+<string id="266380"><![CDATA[等待发射]]></string>
+<string id="266423"><![CDATA[在飞行中]]></string>
+<string id="266442"><![CDATA[降落在]]></string>
+<string id="266463"><![CDATA[处于亚轨]]></string>
+<string id="266514"><![CDATA[处于逃逸轨道 :]]></string>
+<string id="266571"><![CDATA[停靠于<something>]]></string>
+<string id="266614"><![CDATA[残骸]]></string>
+<string id="266627"><![CDATA[残骸]]></string>
+<string id="266769"><![CDATA[飞船名称:]]></string>
+<string id="266794"><![CDATA[重命名飞船]]></string>
+<string id="266873"><![CDATA[飞船类型:]]></string>
+<string id="266898"><![CDATA[着陆器]]></string>
+<string id="266911"><![CDATA[空间站]]></string>
+<string id="266926"><![CDATA[探测器]]></string>
+<string id="266937"><![CDATA[探测车]]></string>
+<string id="266948"><![CDATA[基地]]></string>
+<string id="267191"><![CDATA[游戏已暂停]]></string>
+<string id="267522"><![CDATA[前往]]></string>
+<string id="267587"><![CDATA[请前先往]]></string>
+<string id="267622"><![CDATA[建造一艘飞船.]]></string>
+<string id="267665"><![CDATA[没有找到可用飞船]]></string>
+<string id="267723"><![CDATA[组装中心]]></string>
+<string id="267819"><![CDATA[该机构已经关停.]]></string>
+<string id="267922"><![CDATA[研究与开发中心]]></string>
+<string id="277909"><![CDATA[设立于]]></string>
+<string id="277953"><![CDATA[任务计时:]]></string>
+<string id="278060"><![CDATA[终结]]></string>
+<string id="278361"><![CDATA[这会摧毁这艘飞船,并导致所有船员死亡.真的要这样做吗?]]></string>
+<string id="278539"><![CDATA[终结任务]]></string>
+<string id="278574"><![CDATA[确认要回收这艘飞船吗?]]></string>
+<string id="278665"><![CDATA[回收飞船]]></string>
+<string id="278756"><![CDATA[已经丢失.]]></string>
+<string id="279008"><![CDATA[飞行状态: ]]></string>
+<string id="279039"><![CDATA[飞行结果]]></string>
+<string id="279068"><![CDATA[飞行事件:
+]]></string>
+<string id="279101"><![CDATA[飞行成就:
+]]></string>
+<string id="279146"><![CDATA[返回至发射时(]]></string>
+<string id="279183"><![CDATA[之前)]]></string>
+<string id="279194"><![CDATA[返回至组装中心 (]]></string>
+<string id="279251"><![CDATA[返回至机库 (]]></string>
+<string id="279310"><![CDATA[雷达追踪站]]></string>
+<string id="279343"><![CDATA[返回航天中心]]></string>
+<string id="279414"><![CDATA[确定要执行吗?]]></string>
+<string id="279481"><![CDATA[是]]></string>
+<string id="279571"><![CDATA[预计点火 : ]]></string>
+<string id="279594"><![CDATA[时间距离]]></string>
+<string id="279885"><![CDATA[<b>制造商 :
+</b> ]]></string>
+<string id="279930"><![CDATA[类型:
+]]></string>
+<string id="279943"><![CDATA[<b>价格 :</b> ]]></string>
+<string id="279979"><![CDATA[[右键 ]: 详细信息]]></string>
+<string id="280012"><![CDATA[[右键 ]: 固定窗体]]></string>
+<string id="280045"><![CDATA[[右键 ]: 简要信息]]></string>
+<string id="280078"><![CDATA[<color=orange>没有更多信息了</color>]]></string>
+<string id="280147"><![CDATA[<b>质量 : </b>]]></string>
+<string id="280174"><![CDATA[
+<b>阻力系数 : </b>]]></string>.
+<string id="280203"><![CDATA[
+<b>耐撞强度 : </b>]]></string>
+<string id="280254"><![CDATA[ m/s
+<b>最高耐温 : </b>]]></string>
+<string id="280315"><![CDATA[
+<b>成员数量 : </b>]]></string>
+<string id="280362"><![CDATA[
+<color=orange>无法传导燃料</color>]]></string>
+<string id="280484"><![CDATA[继续飞行]]></string>
+<string id="280617"><![CDATA[<color=orange>返回航天中心</color>]]></string>
+<string id="280686"><![CDATA[回到航天中心]]></string>
+<string id="280733"><![CDATA[重新开始飞行]]></string>
+<string id="280760"><![CDATA[正在重新开始飞行]]></string>
+<string id="280793"><![CDATA[重新开始飞行游戏将会回到之前的状态,确定还要继续吗?]]></string>
+<string id="280971"><![CDATA[警告:你正在飞行中.]]></string>
+<string id="281026"><![CDATA[警告:你正在加速中.]]></string>
+<string id="281099"><![CDATA[警告:你正处于碰撞轨道上.]]></string>
+<string id="281178"><![CDATA[警告:你正在地面上移动.]]></string>
+<string id="281261"><![CDATA[警告:你正站在梯子上.]]></string>
+<string id="281320"><![CDATA[警告:节流阀未关闭.]]></string>
+<string id="281381"><![CDATA[游戏现在处于无法被保存的状态.仍在现在退出游戏将会返回到上次保存时的状态.上一次保存是在 ]]></string>
+<string id="281609"><![CDATA[之前.确定要这样做吗?]]></string>
+<string id="281688"><![CDATA[仍旧退出]]></string>
+<string id="282964"><![CDATA[(自带)]]></string>
+<string id="282981"><![CDATA[在目录中存在不兼容的飞船文件.
+你想要删掉它们吗?]]></string>
+<string id="283236"><![CDATA[个部件]]></string>
+<string id="283247"><![CDATA[个部件]]></string>
+<string id="283275"><![CDATA[个分级.]]></string>
+<string id="283738"><![CDATA[确定要删除这个设计吗?]]></string>
+<string id="283825"><![CDATA[读取]]></string>
+<string id="283834"><![CDATA[选择要载入的载具:]]></string>
+<string id="284258"><![CDATA[请选择一个旗帜]]></string>
+<string id="284285"><![CDATA[已选择的旗帜]]></string>
+<string id="289924"><![CDATA[进行中的任务:]]></string>
+<string id="296501"><![CDATA[在舱外]]></string>
+<string id="296514"><![CDATA[乘员舱内]]></string>
+<string id="296543"><![CDATA[飞船: ]]></string>
+<string id="296560"><![CDATA[
+位置: ]]></string>
+<string id="296575"><![CDATA[, 部件: ]]></string>
+<string id="296592"><![CDATA[已死亡]]></string>
+<string id="296601"><![CDATA[在行动中失踪]]></string>
+<string id="296636"><![CDATA[可以执行下个任务]]></string>
+<string id="296689"><![CDATA[可以录用]]></string>
+<string id="297936"><![CDATA[[#e6752a]飞行器特性: 旗帜]]></string>
+<string id="298009"><![CDATA[旗帜安置点]]></string>
+<string id="298026"><![CDATA[安置者:]]></string>
+<string id="298043"><![CDATA[[#e6752a]旗帜:]]></string>
+<string id="298090"><![CDATA[安置者:]]></string>
+<string id="298120"><![CDATA[[#e6752a]飞行器特性]]></string>
+<string id="298181"><![CDATA[作用范围]]></string>
+<string id="298220"><![CDATA[状况]]></string>
+<string id="298239"><![CDATA[飞行时间]]></string>
+<string id="298262"><![CDATA[[#e6752a]地表位置]]></string>
+<string id="298313"><![CDATA[天体]]></string>
+<string id="298342"><![CDATA[纬度]]></string>
+<string id="298359"><![CDATA[经度]]></string>
+<string id="298378"><![CDATA[[#e6752a]轨道特性]]></string>
+<string id="298443"><![CDATA[速度]]></string>
+<string id="298460"><![CDATA[[#e6752a]乘员载具分类]]></string>
+<string id="298650"><![CDATA[已死亡,无法查看该乘员信息]]></string>
+<string id="298731"><![CDATA[[#e6752a]EVA太空服]]></string>
+<string id="298775"><![CDATA["最抢眼"太空服]]></string>
+<string id="298902"><![CDATA[[#2ae678]物理特性:]]></string>
+<string id="298971"><![CDATA[赤道半径]]></string>
+<string id="299018"><![CDATA[表面积]]></string>
+<string id="299051"><![CDATA[质量]]></string>
+<string id="299067"><![CDATA[引力参数]]></string>
+<string id="299085"><![CDATA[海平面重力加速度]]></string>
+<string id="299128"><![CDATA[逃逸速度]]></string>
+<string id="299159"><![CDATA[自转周期]]></string>
+<string id="299197"><![CDATA[[#2ae678]大气特性:]]></string>
+<string id="299272"><![CDATA[是否存在大气]]></string>
+<string id="299309"><![CDATA[均质大气高度]]></string>
+<string id="299334"><![CDATA[大气高度]]></string>
+<string id="299361"><![CDATA[大气压]]></string>
+<string id="299401"><![CDATA[海平面温度]]></string>
+<string id="311310"><![CDATA[这里好像什么记录都没有啊.]]></string>
+<string id="311400"><![CDATA[我们现在对这个课题几乎一无所知.任何相关的信息都是一笔宝贵的财富.]]></string>
+<string id="311589"><![CDATA[我们已经拿到了一些相关的数据,但是还有更多可以研究的地方.]]></string>
+<string id="311760"><![CDATA[我们已经拿到许多的研究数据了!简直太棒了!]]></string>
+<string id="311898"><![CDATA[有一些课题的进度已经远远超出其他的课题了.一定在别的方面还有更多的机会.]]></string>
+<string id="312137"><![CDATA[实验]]></string>
+<string id="312160"><![CDATA[状态]]></string>
+<string id="312181"><![CDATA[地形]]></string>
+<string id="312194"><![CDATA[个报告]]></string>
+<string id="312211"><![CDATA[个报告[#aaaaaa]]]></string>
+<string id="312248"><![CDATA[个被隐藏]]></string>
+<string id="312272"><![CDATA[个]]></string>
+<string id="312303"><![CDATA[报告已显示.总共个数:]]></string>
+<string id="312364"><![CDATA[已发现.总共个数:]]></string>
+<string id="313205"><![CDATA[研究 []]></string>
+<string id="313226"><![CDATA[ 个科学点数]]]></string>
+<string id="313754"><![CDATA[<color=green><b>已拥有</b></color>]]></string>
+<string id="313829"><![CDATA[<b>购买花费 :</b> ]]></string>
+<string id="313955"><![CDATA[科学报告]]></string>
+<string id="313984"><![CDATA[关闭报告]]></string>
+<string id="314009"><![CDATA[当前数据价值: ]]></string>
+<string id="316924"><![CDATA[. 速度:]]></string>
+<string id="319993"><![CDATA[报告:]]></string>
+<string id="320219"><![CDATA[]:开始传输...]]></string>
+<string id="320274"><![CDATA[正在传输数据...]]></string>
+<string id="320309"><![CDATA[]:正在传输数据... ]]></string>
+<string id="320352"><![CDATA[]:警告!没有足够的 ]]></string>
+<string id="320426"><![CDATA[完成!]]></string>
+<string id="320437"><![CDATA[]:完成!]]></string>
+<string id="320454"><![CDATA[覆盖已经存在的]]></string>
+<string id="320496"><![CDATA[覆盖]]></string>
+</zh>
